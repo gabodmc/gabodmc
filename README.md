@@ -2,7 +2,8 @@
 I'm Gabriel
 
 ## I'm currently working as: 
-- 🧭 CTO at [@Ingala](https://www.ingala.io/)
+- 🧭 Co-Founder & CTO at [@Ingala](https://www.ingala.io/)
+- 🧭 Funder at [@Amplix](https://www.amplix.me/)
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, Golang, Rust

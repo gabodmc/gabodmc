@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Gabriel, web software developer
+I'm Gabriel
 
 ## I'm currently working as: 
 - 🧭 CTO at [@Ingala](https://www.ingala.io/)

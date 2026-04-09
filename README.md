@@ -6,11 +6,11 @@ I'm Gabriel, web software developer
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, Golang, Rust
-- ⚙️  Node, React, Next, Astro
+- ⚙️ Node, React, Next, Astro
 - 👁️ SASS, CSS
-- 💽 MySQL, Mongo, Redis
+- 💽 PG, SQL Server, MySQL, SQLite, Mongo, Redis
 - 🔩 ETL, Microservices
-- ☁️ GCP
+- ☁️ GCP, AWS
 
 ## Published Packages
 - 🏔 [Aconcagua App - NodeJS Boilerplate](https://www.npmjs.com/package/create-aconcagua-app)

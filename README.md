@@ -3,7 +3,7 @@ I'm Gabriel
 
 ## I'm currently working as: 
 - 🧭 Co-Founder & CTO at [@Ingala](https://www.ingala.io/)
-- 🧭 Funder at [@Amplix](https://www.amplix.me/)
+- 🧭 Founder at [@Amplix](https://www.amplix.me/)
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, Golang, Rust

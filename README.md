@@ -2,8 +2,8 @@
 I'm Gabriel
 
 ## I'm currently working as: 
-- 🧭 Co-Founder & CTO at [@Ingala](https://www.ingala.io/)
-- 🧭 Founder at [@Amplix](https://www.amplix.me/)
+- Co-Founder & CTO at [@Ingala](https://www.ingala.io/)
+- Founder at [@Amplix](https://www.amplix.me/)
 - Helping vibe-coders and junior devs at [Make no mistakes](https://www.makenomistakes.com/)
 
 ## Skills
